@@ -1,1 +1,1 @@
-This was a fun little project. Wire up event listeners to simple game logic, and sounds. React would have been overkill, so I used JavaScript instead. I also added an "error" sound, and what is basically the ability to keep track of points.
+This was a fun little project. Wire up event listeners to simple game logic and sounds. React would have been overkill, so I used JavaScript instead. I also added an "error" sound, and what is basically the ability to keep track of points.
